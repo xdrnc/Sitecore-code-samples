@@ -1,0 +1,9 @@
+how to use:
+1. put both of these aspx and aspx.cs into your sitecore website folder
+2. run <yoursite>/checkmedia.aspx
+3. copy the "item path" from content editor as the input to the textbox
+4. click the button "check media cache folder"
+
+this helps to find in which folder the media cache would be created ;)
+
+This is tested in XP 9.2.0
